@@ -1,0 +1,8 @@
+.cont1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+body{
+    background-color: rgb(58, 166, 180);
+}

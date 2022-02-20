@@ -1,0 +1,7 @@
+.con1{
+    display: flex;
+    flex-direction:row;
+}
+body{
+    background: url('../f5.jpg');
+}
